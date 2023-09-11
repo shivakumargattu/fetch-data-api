@@ -1,0 +1,10 @@
+.green{
+  background-color: green;
+  color: #fff;
+}
+.red{
+  background-color: red;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+}
